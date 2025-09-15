@@ -9,7 +9,7 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences** [ICLR'25] [[paper]](https://arxiv.org/html/2503.12491) [[github]](https://github.com/antgroup/cakekv)
 *   **HashAttention - Semantic Sparsity for Faster Inference** [ICML'25] [[paper]](https://arxiv.org/abs/2412.14468) [[github]](https://github.com/xAlg-ai/HashAttention-1.0)
 *   **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention** [NeurIPS'24 Spotlight, ICLR'25] [[paper]](https://arxiv.org/abs/2405.03456) [[github]](https://github.com/microsoft/MInference)
-*   **MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention** [[paper]](https://arxiv.org/abs/2504.16083) [[github]](https://github.com/microsoft/MInference)
+*   **MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention** [ICML'25] [[paper]](https://arxiv.org/abs/2504.16083) [[github]](https://github.com/microsoft/MInference)
 *   **XAttention - Block Sparse Attention with Antidiagonal Scoring** [ICML'25] [[paper]](https://arxiv.org/abs/2503.16428) [[github]](https://github.com/mit-han-lab/x-attention)
 
 ### **MLLM**
