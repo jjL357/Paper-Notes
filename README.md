@@ -10,6 +10,7 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **HashAttention - Semantic Sparsity for Faster Inference** [ICML'25] [[paper]](https://arxiv.org/abs/2412.14468) [[github]](https://github.com/xAlg-ai/HashAttention-1.0)
 *   **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention** [NeurIPS'24 Spotlight, ICLR'25] [[paper]](https://arxiv.org/abs/2405.03456) [[github]](https://github.com/microsoft/MInference)
 *   **MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention** [ICML'25] [[paper]](https://arxiv.org/abs/2504.16083) [[github]](https://github.com/microsoft/MInference)
+*   **ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference** [ICML'25 Spotlight] [[paper]](https://arxiv.org/pdf/2410.21465.pdf) [[github]](https://github.com/bytedance/ShadowKV)
 *   **XAttention - Block Sparse Attention with Antidiagonal Scoring** [ICML'25] [[paper]](https://arxiv.org/abs/2503.16428) [[github]](https://github.com/mit-han-lab/x-attention)
 
 ### **MLLM**
