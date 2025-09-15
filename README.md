@@ -1,16 +1,16 @@
 # Paper-Notes
 
-This repository contains my personal notes on multiple papers, combining summaries, explanations, detailed notes, and slide presentations (PPT), along with links to the original papers and related GitHub repositories. Suitable for self-study or as a reference for others.
+This repository contains my personal notes on papers, combining summaries, explanations, detailed notes, and slide presentations (PPT), along with links to the original papers and related GitHub repositories. Suitable for self-study or as a reference for others.
 
 ### **KV Cache**
-*   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2502.05431) [[github]](https://github.com/Infini-AI-Lab/APE))[[slide]]()
-*   **CacheBlend - Fast Large Language Model Serving for RAGwithCached Knowledge Fusion** [Eurosys'25] [[paper]](https://arxiv.org/abs/2406.01416) [[github]](https://github.com/RICE-EIC/CacheBlend)
-*   **CacheGen - KV Cache Compression and Streaming for Fast Large** [SIGCOMM'24] [[paper]](https://arxiv.org/abs/2312.06569) [[github]](https://github.com/hpca-ucr/CacheGen)
-*   **CAKE - Cascading and Adaptive KV Cache for Efficient LLM Inference** [[paper]](https://arxiv.org/abs/2405.08533) [[github]](https://github.com/yujia-gao/CAKE)
-*   **HashAttention - Semantic Sparsity for Faster Inference** [ICML'25] [[paper]](https://arxiv.org/abs/2406.01736) [[github]](https://github.com/HazyResearch/HashAttention)
-*   **M-Inference - Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention** [[paper]](https://arxiv.org/abs/2405.03456)
-*   **MInference - Accelerating Pre-filling for Long-Context Large Language Models** [[paper]](https://arxiv.org/abs/2404.00448) [[github]](https://github.com/Infini-AI/MInference)
-*   **XAttention - Block Sparse Attention with Antidiagonal Scoring** [ICML'25] [[paper]](https://arxiv.org/abs/2406.05083) [[github]](https://github.com/HazyResearch/X-Attention)
+*   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2502.05431) [[github]](https://github.com/Infini-AI-Lab/APE)
+*   **CacheBlend - Fast Large Language Model Serving for RAGwithCached Knowledge Fusion** [Eurosys'25] [[paper]](https://arxiv.org/abs/2405.16444) 
+*   **CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming** [SIGCOMM'24] [[paper]](https://arxiv.org/pdf/2310.07240.pdf) [[github]](https://github.com/UChi-JCL/CacheGen)
+*   **CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences** [ICLR'25] [[paper]](https://arxiv.org/html/2503.12491) [[github]](https://github.com/antgroup/cakekv)
+*   **HashAttention - Semantic Sparsity for Faster Inference** [ICML'25] [[paper]](https://arxiv.org/abs/2412.14468) [[github]](https://github.com/xAlg-ai/HashAttention-1.0)
+*   **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention** [NeurIPS'24 Spotlight, ICLR'25] [[paper]](https://arxiv.org/abs/2405.03456) [[github]](https://github.com/microsoft/MInference)
+*   **MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention** [[paper]](https://arxiv.org/abs/2504.16083) [[github]](https://github.com/microsoft/MInference)
+*   **XAttention - Block Sparse Attention with Antidiagonal Scoring** [ICML'25] [[paper]](https://arxiv.org/abs/2503.16428) [[github]](https://github.com/mit-han-lab/x-attention)
 
 ### **MLLM**
 *   **CoreMatching - Co-adaptive Sparse Inference Framework for Comprehensive Acceleration of Vision Language Model** [ICML'25] [[paper]](https://arxiv.org/abs/2406.04029)
@@ -29,6 +29,8 @@ This repository contains my personal notes on multiple papers, combining summari
 *   **SliM-LLM - Salience-Driven Mixed-Precision Quantization for Large Language Models** [[paper]](https://arxiv.org/abs/2405.16362) [[github]](https://github.com/aritra-bhowmick/SliM-LLM)
 
 ### **Recommendation System**
+
+### **Speculative Decoding**
 *   **MAGICDEC - Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2405.15051) [[github]](https://github.com/princeton-nlp/MAGICDEC)
 *   **PEARL - Parallel Speculative Decoding with Adaptive Draft Length** [[paper]](https://arxiv.org/abs/2405.07086)
 
