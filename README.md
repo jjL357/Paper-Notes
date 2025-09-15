@@ -3,7 +3,7 @@
 This repository contains my personal notes on multiple papers, combining summaries, explanations, detailed notes, and slide presentations (PPT), along with links to the original papers and related GitHub repositories. Suitable for self-study or as a reference for others.
 
 ### **KV Cache**
-*   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2405.15190) [[github]]([https://github.com/Adaptive-Parallel-Encoding/APE](https://github.com/Infini-AI-Lab/APE))[[slide]]()
+*   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2502.05431) [[github]](https://github.com/Infini-AI-Lab/APE))[[slide]]()
 *   **CacheBlend - Fast Large Language Model Serving for RAGwithCached Knowledge Fusion** [Eurosys'25] [[paper]](https://arxiv.org/abs/2406.01416) [[github]](https://github.com/RICE-EIC/CacheBlend)
 *   **CacheGen - KV Cache Compression and Streaming for Fast Large** [SIGCOMM'24] [[paper]](https://arxiv.org/abs/2312.06569) [[github]](https://github.com/hpca-ucr/CacheGen)
 *   **CAKE - Cascading and Adaptive KV Cache for Efficient LLM Inference** [[paper]](https://arxiv.org/abs/2405.08533) [[github]](https://github.com/yujia-gao/CAKE)
