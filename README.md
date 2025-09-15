@@ -22,11 +22,11 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **γ-MOD - Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models** [[paper]](https://arxiv.org/abs/2405.15132)
 
 ### **Quantization**
-*   **Optimizing Large Language Model Training Using FP4 Quantization** [ICML'25] [[paper]](https://arxiv.org/abs/2406.00835)
-*   **ResQ - Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals** [ICML'25] [[paper]](https://arxiv.org/abs/2406.01239)
-*   **SageAttention** [[paper]](https://arxiv.org/abs/2402.09613)
-*   **SageAttention3 - Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training** [[paper]](https://arxiv.org/abs/2406.02543)
-*   **SliM-LLM - Salience-Driven Mixed-Precision Quantization for Large Language Models** [[paper]](https://arxiv.org/abs/2405.16362) [[github]](https://github.com/aritra-bhowmick/SliM-LLM)
+*   **Optimizing Large Language Model Training Using FP4 Quantization** [ICML'25] [[paper]](https://arxiv.org/abs/2501.17116)
+*   **ResQ - Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals** [ICML'25] [[paper]](https://arxiv.org/abs/2412.14363) [[github]](https://github.com/utkarsh-dmx/project-resq)
+*   **SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration** [ICLR'25] [[paper]](https://arxiv.org/abs/2410.02367) [[github]](https://github.com/thu-ml/SageAttention)
+*   **SageAttention3 - Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training** [[paper]](https://arxiv.org/abs/2505.11594) [[github]](https://github.com/thu-ml/SageAttention)
+*   **SliM-LLM - Salience-Driven Mixed-Precision Quantization for Large Language Models** [ICML'25] [[paper]](https://arxiv.org/abs/2405.14917) [[github]](https://github.com/Aaronhuang-778/SliM-LLM)
 
 ### **Recommendation System**
 
