@@ -6,6 +6,7 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2502.05431) [[github]](https://github.com/Infini-AI-Lab/APE)
 *   **CacheBlend - Fast Large Language Model Serving for RAGwithCached Knowledge Fusion** [Eurosys'25] [[paper]](https://arxiv.org/abs/2405.16444) 
 *   **CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming** [SIGCOMM'24] [[paper]](https://arxiv.org/pdf/2310.07240.pdf) [[github]](https://github.com/UChi-JCL/CacheGen)
+*   **TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding** [COLM'24] [[paper]](https://arxiv.org/abs/2404.11912) [[github]](https://github.com/Infini-AI-Lab/TriForce)
 *   **CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences** [ICLR'25] [[paper]](https://arxiv.org/html/2503.12491) [[github]](https://github.com/antgroup/cakekv)
 *   **HashAttention - Semantic Sparsity for Faster Inference** [ICML'25] [[paper]](https://arxiv.org/abs/2412.14468) [[github]](https://github.com/xAlg-ai/HashAttention-1.0)
 *   **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention** [NeurIPS'24 Spotlight, ICLR'25] [[paper]](https://arxiv.org/abs/2405.03456) [[github]](https://github.com/microsoft/MInference)
