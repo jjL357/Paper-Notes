@@ -13,13 +13,13 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **XAttention - Block Sparse Attention with Antidiagonal Scoring** [ICML'25] [[paper]](https://arxiv.org/abs/2503.16428) [[github]](https://github.com/mit-han-lab/x-attention)
 
 ### **MLLM**
-*   **CoreMatching - Co-adaptive Sparse Inference Framework for Comprehensive Acceleration of Vision Language Model** [ICML'25] [[paper]](https://arxiv.org/abs/2406.04029)
-*   **DivPrune - Diversity-based Visual Token Pruning for Large Multimodal Models** [CVPR'25] [[paper]](https://arxiv.org/abs/2405.19635) [[github]](https://github.com/Fuxin-VI/DivPrune)
-*   **DyCoke - DynamicCompression of Tokens for Fast Video Large Language Models** [CVPR'25] [[paper]](https://arxiv.org/abs/2406.02396)
-*   **TimeChat-Online - 80% Visual Tokens are Naturally Redundant in Streaming Videos** [MM'25] [[paper]](https://arxiv.org/abs/2406.06233) [[github]](https://github.com/showlab/TimeChat)
-*   **VisionZip - Longer is Better but Not Necessary in Vision Language Models** [[paper]](https://arxiv.org/abs/2405.10183)
-*   **VoCo-LLaMA - Towards Vision Compression with Large Language Models** [[paper]](https://arxiv.org/abs/2405.05061)
-*   **γ-MOD - Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models** [[paper]](https://arxiv.org/abs/2405.15132)
+*   **CoreMatching - Co-adaptive Sparse Inference Framework for Comprehensive Acceleration of Vision Language Model** [ICML'25] [[paper]](https://arxiv.org/abs/2503.02175) [[github]](https://github.com/wangqinsi1/2025-ICML-CoreMatching)
+*   **DivPrune - Diversity-based Visual Token Pruning for Large Multimodal Models** [CVPR'25] [[paper]](https://arxiv.org/abs/2405.19635) [[github]](https://github.com/vbdi/divprune)
+*   **DyCoke - DynamicCompression of Tokens for Fast Video Large Language Models** [CVPR'25] [[paper]](https://arxiv.org/abs/2411.15024) [[github]](https://github.com/KD-TAO/DyCoke)
+*   **TimeChat-Online - 80% Visual Tokens are Naturally Redundant in Streaming Videos** [MM'25] [[paper]](https://arxiv.org/abs/2504.17343) [[github]](https://github.com/yaolinli/TimeChat-Online)
+*   **VisionZip - Longer is Better but Not Necessary in Vision Language Models** [CVPR'25] [[paper]](https://arxiv.org/abs/2412.04467) [[github]](https://github.com/dvlab-research/VisionZip)
+*   **VoCo-LLaMA - Towards Vision Compression with Large Language Models** [ICLR'25] [[paper]](https://arxiv.org/abs/2406.12275v2) [[github]](https://github.com/Yxxxb/VoCo-LLaMA)
+*   **γ-MOD - Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models** [ICLR'25] [[paper]](https://arxiv.org/abs/2410.13859) [[github]](https://github.com/Yaxin9Luo/Gamma-MOD)
 
 ### **Quantization**
 *   **Optimizing Large Language Model Training Using FP4 Quantization** [ICML'25] [[paper]](https://arxiv.org/abs/2501.17116)
