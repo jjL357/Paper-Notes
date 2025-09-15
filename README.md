@@ -31,12 +31,11 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **Recommendation System**
 
 ### **Speculative Decoding**
-*   **MAGICDEC - Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2405.15051) [[github]](https://github.com/princeton-nlp/MAGICDEC)
-*   **PEARL - Parallel Speculative Decoding with Adaptive Draft Length** [[paper]](https://arxiv.org/abs/2405.07086)
+*   **MAGICDEC - Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2408.11049) [[github]](https://github.com/Infini-AI-Lab/MagicDec/)
+*   **PEARL - Parallel Speculative Decoding with Adaptive Draft Length** [ICLR'25] [[paper]](https://arxiv.org/abs/2408.11850)
 
 ### **System**
-*   **NEO - Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference** [MLsys'25] [[paper]](https://arxiv.org/abs/2405.19598)
-*   **T-MAC - A Transport Protocol for Remote-Memory-Access-based LLM Inference** [EuroSys] [[paper]](https://dl.acm.org/doi/10.1145/3622645.3644265)
-
+*   **NEO - Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference** [MLsys'25] [[paper]](https://arxiv.org/abs/2411.01142) [[github]](https://github.com/NEO-MLSys25/NEO)
+*   **T-MAC - A Transport Protocol for Remote-Memory-Access-based LLM Inference** [EuroSys'25] [[paper]](https://arxiv.org/abs/2407.00088) [[github]](https://github.com/microsoft/T-MAC)
 ### **Technical Report**
-*   **Llama 4** [[paper]](https://arxiv.org/abs/2404.17511)
+*   **Llama 4** [[blog]](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
