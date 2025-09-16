@@ -7,14 +7,14 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **KV Cache**
 *   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2502.05431) [[github]](https://github.com/Infini-AI-Lab/APE)
 *   **CacheBlend - Fast Large Language Model Serving for RAGwithCached Knowledge Fusion** [Eurosys'25] [[paper]](https://arxiv.org/abs/2405.16444) 
-*   **CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming** [SIGCOMM'24] [[paper]](https://arxiv.org/pdf/2310.07240.pdf) [[github]](https://github.com/UChi-JCL/CacheGen)
-*   **TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding** [COLM'24] [[paper]](https://arxiv.org/abs/2404.11912) [[github]](https://github.com/Infini-AI-Lab/TriForce)
 *   **CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences** [ICLR'25] [[paper]](https://arxiv.org/html/2503.12491) [[github]](https://github.com/antgroup/cakekv)
 *   **HashAttention - Semantic Sparsity for Faster Inference** [ICML'25] [[paper]](https://arxiv.org/abs/2412.14468) [[github]](https://github.com/xAlg-ai/HashAttention-1.0)
-*   **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention** [NeurIPS'24 Spotlight, ICLR'25] [[paper]](https://arxiv.org/abs/2405.03456) [[github]](https://github.com/microsoft/MInference)
 *   **MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention** [ICML'25] [[paper]](https://arxiv.org/abs/2504.16083) [[github]](https://github.com/microsoft/MInference)
 *   **ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference** [ICML'25 Spotlight] [[paper]](https://arxiv.org/pdf/2410.21465.pdf) [[github]](https://github.com/bytedance/ShadowKV)
 *   **XAttention - Block Sparse Attention with Antidiagonal Scoring** [ICML'25] [[paper]](https://arxiv.org/abs/2503.16428) [[github]](https://github.com/mit-han-lab/x-attention)
+*   **CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming** [SIGCOMM'24] [[paper]](https://arxiv.org/pdf/2310.07240.pdf) [[github]](https://github.com/UChi-JCL/CacheGen)
+*   **TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding** [COLM'24] [[paper]](https://arxiv.org/abs/2404.11912) [[github]](https://github.com/Infini-AI-Lab/TriForce)
+*   **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention** [NeurIPS'24 Spotlight, ICLR'25] [[paper]](https://arxiv.org/abs/2405.03456) [[github]](https://github.com/microsoft/MInference)
 
 ### **MLLM**
 *   **CoreMatching - Co-adaptive Sparse Inference Framework for Comprehensive Acceleration of Vision Language Model** [ICML'25] [[paper]](https://arxiv.org/abs/2503.02175) [[github]](https://github.com/wangqinsi1/2025-ICML-CoreMatching)
@@ -31,15 +31,16 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration** [ICLR'25] [[paper]](https://arxiv.org/abs/2410.02367) [[github]](https://github.com/thu-ml/SageAttention)
 *   **SageAttention3 - Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training** [[paper]](https://arxiv.org/abs/2505.11594) [[github]](https://github.com/thu-ml/SageAttention)
 *   **SliM-LLM - Salience-Driven Mixed-Precision Quantization for Large Language Models** [ICML'25] [[paper]](https://arxiv.org/abs/2405.14917) [[github]](https://github.com/Aaronhuang-778/SliM-LLM)
+*   **SpinQuant: LLM Quantization with Learned Rotations** [ICLR'25] [[paper]](https://arxiv.org/pdf/2405.16406) [[github]](https://github.com/facebookresearch/SpinQuant)
 
 ### **Recommendation System**
 
 ### **Speculative Decoding**
-*  **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty** [ICML'24] [[paper]](https://arxiv.org/pdf/2401.15077) [[github]](https://github.com/SafeAILab/EAGLE)
-*  **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees** [EMNLP'24] [[paper]](https://arxiv.org/pdf/2406.16858) [[github]](https://github.com/SafeAILab/EAGLE)
-*  **EAGLE-3:ScalingupInference Acceleration of Large Language Models via Training-Time Test**  [[paper]](https://arxiv.org/pdf/2503.01840) [[github]](https://github.com/SafeAILab/EAGLE)
+*   **EAGLE-3:ScalingupInference Acceleration of Large Language Models via Training-Time Test**  [[paper]](https://arxiv.org/pdf/2503.01840) [[github]](https://github.com/SafeAILab/EAGLE)
 *   **MAGICDEC - Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2408.11049) [[github]](https://github.com/Infini-AI-Lab/MagicDec/)
 *   **PEARL - Parallel Speculative Decoding with Adaptive Draft Length** [ICLR'25] [[paper]](https://arxiv.org/abs/2408.11850)
+*   **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty** [ICML'24] [[paper]](https://arxiv.org/pdf/2401.15077) [[github]](https://github.com/SafeAILab/EAGLE)
+*   **EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees** [EMNLP'24] [[paper]](https://arxiv.org/pdf/2406.16858) [[github]](https://github.com/SafeAILab/EAGLE)
 
 ### **System**
 *   **NEO - Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference** [MLsys'25] [[paper]](https://arxiv.org/abs/2411.01142) [[github]](https://github.com/NEO-MLSys25/NEO)
