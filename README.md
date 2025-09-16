@@ -31,6 +31,7 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **Quantization**
 *   **Optimizing Large Language Model Training Using FP4 Quantization** [ICML'25] [[paper]](https://arxiv.org/abs/2501.17116)
 *   **ResQ - Mixed-Precision Quantization of Large Language Models with Low-Rank Residuals** [ICML'25] [[paper]](https://arxiv.org/abs/2412.14363) [[github]](https://github.com/utkarsh-dmx/project-resq)
+*   **SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models** [ICLR'25 Spotlight] [[paper]](http://arxiv.org/abs/2411.05007) [[github]](https://github.com/nunchaku-tech/nunchaku)
 *   **SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration** [ICLR'25] [[paper]](https://arxiv.org/abs/2410.02367) [[github]](https://github.com/thu-ml/SageAttention)
 *   **SageAttention3 - Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training** [[paper]](https://arxiv.org/abs/2505.11594) [[github]](https://github.com/thu-ml/SageAttention)
 *   **SliM-LLM - Salience-Driven Mixed-Precision Quantization for Large Language Models** [ICML'25] [[paper]](https://arxiv.org/abs/2405.14917) [[github]](https://github.com/Aaronhuang-778/SliM-LLM)
