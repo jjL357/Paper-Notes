@@ -7,11 +7,11 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **KV Cache**
 *   **MagicPIG: LSH Sampling for Efficient LLM Generation** [ICLR'25 Spotlight] [[paper]](https://arxiv.org/abs/2410.16179) [[github]](https://github.com/Infini-AI-Lab/MagicPIG)
 *   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2502.05431) [[github]](https://github.com/Infini-AI-Lab/APE)
-*   **CacheBlend - Fast Large Language Model Serving for RAGwithCached Knowledge Fusion** [Eurosys'25] [[paper]](https://arxiv.org/abs/2405.16444) 
 *   **CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences** [ICLR'25] [[paper]](https://arxiv.org/html/2503.12491) [[github]](https://github.com/antgroup/cakekv)
+*   **CacheBlend - Fast Large Language Model Serving for RAGwithCached Knowledge Fusion** [Eurosys'25] [[paper]](https://arxiv.org/abs/2405.16444) 
+*   **ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference** [ICML'25 Spotlight] [[paper]](https://arxiv.org/pdf/2410.21465.pdf) [[github]](https://github.com/bytedance/ShadowKV)
 *   **HashAttention - Semantic Sparsity for Faster Inference** [ICML'25] [[paper]](https://arxiv.org/abs/2412.14468) [[github]](https://github.com/xAlg-ai/HashAttention-1.0)
 *   **MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention** [ICML'25] [[paper]](https://arxiv.org/abs/2504.16083) [[github]](https://github.com/microsoft/MInference)
-*   **ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference** [ICML'25 Spotlight] [[paper]](https://arxiv.org/pdf/2410.21465.pdf) [[github]](https://github.com/bytedance/ShadowKV)
 *   **XAttention - Block Sparse Attention with Antidiagonal Scoring** [ICML'25] [[paper]](https://arxiv.org/abs/2503.16428) [[github]](https://github.com/mit-han-lab/x-attention)
 *   **CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming** [SIGCOMM'24] [[paper]](https://arxiv.org/pdf/2310.07240.pdf) [[github]](https://github.com/UChi-JCL/CacheGen)
 *   **TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding** [COLM'24] [[paper]](https://arxiv.org/abs/2404.11912) [[github]](https://github.com/Infini-AI-Lab/TriForce)
@@ -23,8 +23,8 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **CoreMatching - Co-adaptive Sparse Inference Framework for Comprehensive Acceleration of Vision Language Model** [ICML'25] [[paper]](https://arxiv.org/abs/2503.02175) [[github]](https://github.com/wangqinsi1/2025-ICML-CoreMatching)
 *   **DivPrune - Diversity-based Visual Token Pruning for Large Multimodal Models** [CVPR'25] [[paper]](https://arxiv.org/abs/2405.19635) [[github]](https://github.com/vbdi/divprune)
 *   **DyCoke - DynamicCompression of Tokens for Fast Video Large Language Models** [CVPR'25] [[paper]](https://arxiv.org/abs/2411.15024) [[github]](https://github.com/KD-TAO/DyCoke)
-*   **TimeChat-Online - 80% Visual Tokens are Naturally Redundant in Streaming Videos** [MM'25] [[paper]](https://arxiv.org/abs/2504.17343) [[github]](https://github.com/yaolinli/TimeChat-Online)
 *   **VisionZip - Longer is Better but Not Necessary in Vision Language Models** [CVPR'25] [[paper]](https://arxiv.org/abs/2412.04467) [[github]](https://github.com/dvlab-research/VisionZip)
+*   **TimeChat-Online - 80% Visual Tokens are Naturally Redundant in Streaming Videos** [MM'25] [[paper]](https://arxiv.org/abs/2504.17343) [[github]](https://github.com/yaolinli/TimeChat-Online)
 *   **VoCo-LLaMA - Towards Vision Compression with Large Language Models** [ICLR'25] [[paper]](https://arxiv.org/abs/2406.12275v2) [[github]](https://github.com/Yxxxb/VoCo-LLaMA)
 *   **γ-MOD - Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models** [ICLR'25] [[paper]](https://arxiv.org/abs/2410.13859) [[github]](https://github.com/Yaxin9Luo/Gamma-MOD)
 
