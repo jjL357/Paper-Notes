@@ -5,6 +5,7 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **Agent**
 
 ### **KV Cache**
+*   **MagicPIG: LSH Sampling for Efficient LLM Generation** [ICLR'25 Spotlight] [[paper]](https://arxiv.org/abs/2410.16179) [[github]](https://github.com/Infini-AI-Lab/MagicPIG)
 *   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2502.05431) [[github]](https://github.com/Infini-AI-Lab/APE)
 *   **CacheBlend - Fast Large Language Model Serving for RAGwithCached Knowledge Fusion** [Eurosys'25] [[paper]](https://arxiv.org/abs/2405.16444) 
 *   **CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences** [ICLR'25] [[paper]](https://arxiv.org/html/2503.12491) [[github]](https://github.com/antgroup/cakekv)
@@ -15,6 +16,8 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming** [SIGCOMM'24] [[paper]](https://arxiv.org/pdf/2310.07240.pdf) [[github]](https://github.com/UChi-JCL/CacheGen)
 *   **TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding** [COLM'24] [[paper]](https://arxiv.org/abs/2404.11912) [[github]](https://github.com/Infini-AI-Lab/TriForce)
 *   **MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention** [NeurIPS'24 Spotlight, ICLR'25] [[paper]](https://arxiv.org/abs/2405.03456) [[github]](https://github.com/microsoft/MInference)
+*   **Efficient Streaming Language Models with Attention Sinks** [ICLR'24] [[paper]](http://arxiv.org/abs/2309.17453) [[github]](https://github.com/mit-han-lab/streaming-llm)
+
 
 ### **MLLM**
 *   **CoreMatching - Co-adaptive Sparse Inference Framework for Comprehensive Acceleration of Vision Language Model** [ICML'25] [[paper]](https://arxiv.org/abs/2503.02175) [[github]](https://github.com/wangqinsi1/2025-ICML-CoreMatching)
@@ -32,6 +35,9 @@ This repository contains my personal notes on papers, combining summaries, expla
 *   **SageAttention3 - Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training** [[paper]](https://arxiv.org/abs/2505.11594) [[github]](https://github.com/thu-ml/SageAttention)
 *   **SliM-LLM - Salience-Driven Mixed-Precision Quantization for Large Language Models** [ICML'25] [[paper]](https://arxiv.org/abs/2405.14917) [[github]](https://github.com/Aaronhuang-778/SliM-LLM)
 *   **SpinQuant: LLM Quantization with Learned Rotations** [ICLR'25] [[paper]](https://arxiv.org/pdf/2405.16406) [[github]](https://github.com/facebookresearch/SpinQuant)
+*   **AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration** [MLSys'24 Best Paper] [[paper]](https://arxiv.org/abs/2306.00978) [[github]](https://github.com/mit-han-lab/llm-awq)
+*   **SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models** [ICML'23] [[paper]](https://arxiv.org/abs/2211.10438) [[github]](https://github.com/mit-han-lab/smoothquant)
+
 
 ### **Recommendation System**
 
@@ -45,5 +51,8 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **System**
 *   **NEO - Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference** [MLsys'25] [[paper]](https://arxiv.org/abs/2411.01142) [[github]](https://github.com/NEO-MLSys25/NEO)
 *   **T-MAC - A Transport Protocol for Remote-Memory-Access-based LLM Inference** [EuroSys'25] [[paper]](https://arxiv.org/abs/2407.00088) [[github]](https://github.com/microsoft/T-MAC)
+*   **FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU** [ICML'23] [[paper]](https://arxiv.org/abs/2303.06865) [[github]](https://github.com/FMInference/FlexGen)
+
+
 ### **Technical Report**
 *   **Llama 4** [[blog]](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
