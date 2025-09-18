@@ -52,7 +52,7 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **System**
 *   **NEO - Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference** [MLsys'25] [[paper]](https://arxiv.org/abs/2411.01142) [[github]](https://github.com/NEO-MLSys25/NEO)
 *   **T-MAC - A Transport Protocol for Remote-Memory-Access-based LLM Inference** [EuroSys'25] [[paper]](https://arxiv.org/abs/2407.00088) [[github]](https://github.com/microsoft/T-MAC)
-*   **Serving LLM-based Applications Efficiently with Semantic Variable** [OSDI'24] [[paper]](https://www.usenix.org/system/files/osdi24-lin-chaofan.pdf) [[github]](https://github.com/microsoft/ParrotServe)
+*   **Parrot: Efficient Serving of LLM-based Application with Semantic Variable** [OSDI'24] [[paper]](https://www.usenix.org/system/files/osdi24-lin-chaofan.pdf) [[github]](https://github.com/microsoft/ParrotServe)
 *   **FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU** [ICML'23] [[paper]](https://arxiv.org/abs/2303.06865) [[github]](https://github.com/FMInference/FlexGen)
 
 
