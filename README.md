@@ -5,6 +5,7 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **Agent**
 
 ### **KV Cache**
+*   **Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free** [NeurIPS'26 Oral] [[paper]](https://arxiv.org/abs/2505.06708) [[github]](https://github.com/qiuzh20/gated_attention)
 *   **MagicPIG: LSH Sampling for Efficient LLM Generation** [ICLR'25 Spotlight] [[paper]](https://arxiv.org/abs/2410.16179) [[github]](https://github.com/Infini-AI-Lab/MagicPIG)
 *   **APE - Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2502.05431) [[github]](https://github.com/Infini-AI-Lab/APE)
 *   **CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences** [ICLR'25] [[paper]](https://arxiv.org/html/2503.12491) [[github]](https://github.com/antgroup/cakekv)
