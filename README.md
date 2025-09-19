@@ -43,7 +43,7 @@ This repository contains my personal notes on papers, combining summaries, expla
 ### **Recommendation System**
 
 ### **Speculative Decoding**
-*   **EAGLE-3:ScalingupInference Acceleration of Large Language Models via Training-Time Test**  [[paper]](https://arxiv.org/pdf/2503.01840) [[github]](https://github.com/SafeAILab/EAGLE)
+*   **EAGLE-3:Scaling up Inference Acceleration of Large Language Models via Training-Time Test**  [[paper]](https://arxiv.org/pdf/2503.01840) [[github]](https://github.com/SafeAILab/EAGLE)
 *   **MAGICDEC - Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding** [ICLR'25] [[paper]](https://arxiv.org/abs/2408.11049) [[github]](https://github.com/Infini-AI-Lab/MagicDec/)
 *   **PEARL - Parallel Speculative Decoding with Adaptive Draft Length** [ICLR'25] [[paper]](https://arxiv.org/abs/2408.11850)
 *   **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty** [ICML'24] [[paper]](https://arxiv.org/pdf/2401.15077) [[github]](https://github.com/SafeAILab/EAGLE)
